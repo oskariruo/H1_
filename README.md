@@ -11,7 +11,8 @@ The intrusion kill chain becomes a model for greater studying and understanding 
 
 <h2>Source</h2>
 Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
-
+<br>
+<br>
 Quick summary of some of the main commands:
 pwd - prints the working directory
 ls – lists files in working directory
@@ -28,7 +29,7 @@ exit – exit back to own machine
 scp – securely copy a folder to a folder
 man – opens manual page
 … and so on
-
+<br>
 a)
 
 <h3>to level 0</h3>
@@ -57,7 +58,14 @@ next password: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 This one was hard. Eventually found the password at ./-file07
 cat < ./-file07
 
-b)
+
+b) Virtual boxand vm are installed and is working:
+
+![virtual box](VM.PNG)
+
+![vm](VM_toimii.PNG)
+
+c) WebGoat is installed and is working: 
 
 
 
