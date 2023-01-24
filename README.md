@@ -13,6 +13,7 @@ The intrusion kill chain becomes a model for greater studying and understanding 
 Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 <br>
 <br>
+<h2>A summary of Karvinen 2020: Command Line Basics Revisited</h2>
 Quick summary of some of the main commands:
 pwd - prints the working directory
 ls – lists files in working directory
