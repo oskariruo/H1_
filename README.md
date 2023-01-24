@@ -67,6 +67,7 @@ b) Virtual boxand vm are installed and is working:
 
 c) WebGoat is installed and is working: 
 
+![WeGoat working](WebGoat.PNG)
 
 
 
