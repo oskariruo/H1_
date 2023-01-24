@@ -1,4 +1,4 @@
-
+<h1>H1 by Oskari Ruotsalainen</h1>
 The emergence of ATPs forced organizations to re-evaluate their current technologies and processes, as they were not sufficient in mitigating the risks. A kill chain is a systematic process to target and engage an adversary to create desired effects. This sort of modeling is commonly utilized in both military and information security contexts. A kill chain model concerning intrusions according to the material is as follows:
 1.	Reconnaissance - Information is gathered to determine a target/targets. 
 2.	Weaponization – Malware is chosen/created/modified to be used in the attack.
@@ -69,5 +69,5 @@ c) WebGoat is installed and is working:
 
 ![WeGoat working](WebGoat.PNG)
 
-
+e) I tried for ages to get the ZAP thing to work. Did not manage...
 
