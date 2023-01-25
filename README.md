@@ -60,13 +60,13 @@ This one was hard. Eventually found the password at ./-file07
 cat < ./-file07
 
 
-b) Virtual boxand vm are installed and is working:
+b) Virtual box and vm are installed and is working according to the course material:
 
 ![virtual box](VM.PNG)
 
 ![vm](VM_toimii.PNG)
 
-c) WebGoat is installed and is working: 
+c) WebGoat is installed and is working according to the material given: 
 
 ![WeGoat working](WebGoat.PNG)
 
