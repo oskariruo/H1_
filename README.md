@@ -1,4 +1,4 @@
-<h1>H1 First stepsby Oskari Ruotsalainen</h1>
+<h1>H1 First steps by Oskari Ruotsalainen</h1>
 <h3>x)Summary of the Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains, chapters Abstract, 3.2 Intrusion Kill Chain and 3.3 Courses of Action</h3>
 
 The introduction of ATPs compelled enterprises to reconsider their current technology and processes, which were insufficient in mitigating risks. A kill chain is a systematic process for targeting and engaging an adversary in order to achieve the intended results. This type of modeling is widely used in military and information security contexts. According to the material, a kill chain model for intrusions is as follows:
